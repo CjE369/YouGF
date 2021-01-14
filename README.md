@@ -6,3 +6,5 @@ commands:
   $git clone https://github.com/Cjbug/YouGF.com
   $cd YouGF 
   $bash YouGF.sh
+  
+  
