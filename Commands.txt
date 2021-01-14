@@ -1,0 +1,10 @@
+help
+settarget
+settime
+setlist
+showtarget
+showtime
+showlist
+start
+load
+exit
