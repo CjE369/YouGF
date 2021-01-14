@@ -40,7 +40,7 @@ then
    cd 
    pkg upgrade && pkg update
    pkg install git
-   git cone https://github.com/Cjbug/YouList
+   git clone https://github.com/Cjbug/YouList
    cd YouList
    python YouList.py
 elif [ $input = 3 ]
@@ -48,7 +48,7 @@ then
    cd 
    pkg upgrade && pkg update
    pkg install git
-   git cone https://github.com/Cjbug/YouList
+   git clone https://github.com/Cjbug/YouList
    cd YouList
    python YouList.py
 else 
