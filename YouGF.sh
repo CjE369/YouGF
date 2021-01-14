@@ -21,15 +21,19 @@ read input
 
 if [ $input = 01 ]
 then 
+   cd Core
    python Gmail.py
 elif [ $input = 1 ]
 then
+   cd Core
    python Gmail.py
 elif [ $input = 02 ]
 then
+   cd Core
    python2 bluforcefb.py
 elif [ $input = 2 ]
 then 
+   cd Core
    python2 bluforcefb.py
 elif [ $input = 03 ]
 then 
