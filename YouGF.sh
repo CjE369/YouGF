@@ -56,4 +56,3 @@ else
    clear
    bash YouGF.sh
 
-fi
